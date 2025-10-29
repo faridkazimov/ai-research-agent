@@ -1,5 +1,15 @@
 # 🧠 Smart Research Assistant (LangGraph AI Agent)
+## 🎈 Live Demo on Streamlit Cloud
 
+You can interact with a live version of this agent deployed on Streamlit Community Cloud:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-research-agent-lrtyftta8ifzrmkcesnxom.streamlit.app/)
+
+*(Replace `[SENIN-UYGULAMA-ADRESIN]` with the actual URL provided by Streamlit Cloud)*
+
+*Note: The live demo is rate-limited to **4 questions per session** to manage API costs.*
+
+---
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-1.0%2B-green.svg)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1.0-orange.svg)
