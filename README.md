@@ -5,7 +5,7 @@ You can interact with a live version of this agent deployed on Streamlit Communi
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-research-agent-lrtyftta8ifzrmkcesnxom.streamlit.app/)
 
-*(Replace `[SENIN-UYGULAMA-ADRESIN]` with the actual URL provided by Streamlit Cloud)*
+
 
 *Note: The live demo is rate-limited to **4 questions per session** to manage API costs.*
 
@@ -28,7 +28,7 @@ This agent is deployed with an interactive Streamlit UI and includes a simple ra
 
 ## 🎥 Live Demo (Example Interaction)
 
-*(**Recommendation:** Insert a GIF of your application working here. This makes your project 10x more professional. You can easily create one using tools like [LICEcap](https://www.cockos.com/licecap/) or [GIPHY Capture](https://giphy.com/apps/giphycapture).)*
+
 
 **User:** "What company has a higher market cap right now, NVIDIA or Apple? And what's the difference in US dollars?"
 
@@ -63,7 +63,7 @@ graph TD
     C -- No --> E[END: Final Answer];
 ```
 ## 🗺️ Future Roadmap & Advanced Implementation
-This project serves as a strong foundation. Here are the planned next steps to evolve it into a "Master-level" agent, with details on *how* they would be implemented.
+
 
 ### 1. Add Conversational Memory
 
