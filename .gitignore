@@ -1,0 +1,13 @@
+# Sanal ortam klasörünü görmezden gel
+/ajan-env/
+
+# Python cache dosyalarını görmezden gel
+__pycache__/
+*.pyc
+*.pyo
+
+# Gizli API anahtarlarımızı içeren .env dosyasını görmezden gel
+.env
+
+# Streamlit'in config dosyasını görmezden gel (varsa)
+.streamlit/
